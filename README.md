@@ -1,0 +1,2 @@
+# WebRusher
+The program fetches HTML content from a specified URL, parses it, and extracts data based on a CSS selector. The example targets the Rust by Example documentation to showcase how to retrieve menu titles from the provided webpage. The code is asynchronous, utilizing the tokio runtime for handling asynchronous tasks.
